@@ -4,7 +4,6 @@ description: Am I procrastinating? What even is procrastination?
 date: 2024-08-25 22:44:00 -0600
 categories: [Contemplations, Thoughts]
 tags: [procrastination, self-reflection]
-media_subpath: /assets/posts/procrastination/
 ---
 
 Yahallo, today's blog post is being written by a half-asleep Python dev on his phone, so don't expect any engaging and witty prose. You might be wondering why I'm writing this blog so late (need to wake up at 6:40 AM tomorrow for school).

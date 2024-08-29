@@ -4,7 +4,6 @@ description: An overview of how my goalposts have changed throughout my life, an
 date: 2024-08-26 16:30:00 -0600
 categories: [Contemplations, Thoughts]
 tags: [goals, self-reflection]
-media_subpath: /assets/posts/procrastination/
 ---
 
 Yahallo~

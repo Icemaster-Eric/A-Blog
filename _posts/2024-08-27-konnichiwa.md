@@ -4,7 +4,6 @@ description: My journey so far with Japanese, and future plans?
 date: 2024-08-27 15:26:00 -0600
 categories: [Just Chatting]
 tags: [japanese, learning]
-media_subpath: /assets/posts/procrastination/
 ---
 
 皆さん、こんにちは！

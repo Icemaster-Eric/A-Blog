@@ -4,7 +4,6 @@ description: Woah, it's a blog!
 date: 2024-08-24 13:47:00 -0600
 categories: [Just Chatting]
 tags: [introduction]
-media_subpath: /assets/posts/hello-world/
 ---
 
 ```python
