@@ -14,7 +14,7 @@ Honestly, I haven't really felt like I've been improving much with each of my bl
 
 > A weeb is a person who is interested in anime and Japanese culture.
 
-I *am* going to Japan on my next summer vacation though, less than two months from now. I guess this counts as a valid reason? My parents are expecting *me* to be the translator, so...
+I *am* going to Japan on my next summer vacation though, less than ten months from now. I guess this counts as a valid reason? My parents are expecting *me* to be the translator, so...
 
 ## What I've done in terms of learning the language
 
